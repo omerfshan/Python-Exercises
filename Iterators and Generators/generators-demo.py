@@ -20,13 +20,13 @@ def fib_gen(max):
 # for i in fib_gen(10000000):
 #   print(i)
 
-import sys
+# import sys
 
-liste = [i*2 for i in range(10000)]
-print(sys.getsizeof(liste))
+# liste = [i*2 for i in range(10000)]
+# print(sys.getsizeof(liste))
 
-gen = (i**2 for i in range(10000))
-print(sys.getsizeof(gen))
+# gen = (i**2 for i in range(10000))
+# print(sys.getsizeof(gen))
 
 import time
 
