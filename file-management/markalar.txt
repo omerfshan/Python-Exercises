@@ -1,6 +1,4 @@
 1-Toyota
 2-Opel
 4-Mazda
-5-Mercedes 
-ad:samsung s20 fiyat:6000 
-ad:Iphone 13 fiyat:9000 
+5-Mercedes
